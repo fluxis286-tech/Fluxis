@@ -7,7 +7,7 @@
 
 *DOP · Actors · Messaging · AI/LLM · ML · 2D Graphics · Bytecode VM*
 
-[![version](https://img.shields.io/badge/version-4.0.0-cyan?style=flat-square)](https://github.com/dqgamer75-oss/Fluxis)
+[![version](https://img.shields.io/badge/version-4.0.0-cyan?style=flat-square)](https://github.com/fluxis286-tech/Fluxis)
 [![language](https://img.shields.io/badge/built%20in-Rust-orange?style=flat-square)](https://www.rust-lang.org)
 [![platform](https://img.shields.io/badge/runs%20on-Termux%20%7C%20Linux%20%7C%20Windows-green?style=flat-square)](https://fluxislang.netlify.app)
 [![license](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
@@ -72,13 +72,13 @@ start {
 ### Linux / macOS / Termux (one command)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/dqgamer75-oss/Fluxis/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/fluxis286-tech/Fluxis/main/install.sh | bash
 ```
 
 Or manually:
 
 ```bash
-git clone https://github.com/dqgamer75-oss/Fluxis
+git clone https://github.com/fluxis286-tech/Fluxis
 cd Fluxis
 cargo build --release
 # Binary is at target/release/fluxis
@@ -89,10 +89,10 @@ cp target/release/fluxis ~/.local/bin/fluxis
 ### Windows
 
 ```powershell
-irm https://raw.githubusercontent.com/dqgamer75-oss/Fluxis/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/fluxis286-tech/Fluxis/main/install.ps1 | iex
 ```
 
-Or download the pre-built binary from [Releases](https://github.com/dqgamer75-oss/Fluxis/releases).
+Or download the pre-built binary from [Releases](https://github.com/fluxis286-tech/Fluxis/releases).
 
 ### Requirements
 
